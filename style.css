@@ -1,0 +1,25 @@
+
+body {
+    font-family: 'Poppins';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parallax {
+    background: url(Photo.jpg);
+    background-attachment: fixed;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.parallax h1 {
+    color: #ffffff;
+    font-size: 70px;
+}
+
+
+.page-content {
+    padding: 100px 50px;
+}

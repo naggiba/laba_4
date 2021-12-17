@@ -1,0 +1,57 @@
+body{
+  background-color:#7FFFD4
+}
+
+#box1{
+  height: 75px;
+  font-size: 25px;
+  text-align: center;
+  font-family: Arial, serif;
+}
+
+#box2{
+  height: 400px;
+  background: url('summer evening.jpg') center / cover no-repeat;
+}
+
+#box3{
+  height: 410px;
+
+  margin: 75px 100px 175px 100px;
+
+}
+
+#box4{
+  height: 150px;
+  margin-top:50px;
+}
+#box5{
+    height: 100px;
+    margin-top:50px;
+}
+#box6{
+    height: 200px;
+
+  margin-botton:75px ;
+  text-align: center;
+  font-family: Arial, serif;
+  font-size: 16px;
+}
+#box7{
+  height: 300px;
+  width:48%;
+
+  float: left;
+  margin:1%;
+  font-size: 9px;
+  text-align: center;
+  font-family: Arial, serif;
+}
+img{
+    width:100%;
+    height: auto;
+    align-items: center;
+}
+a {
+    text-decoration: none;
+   }
